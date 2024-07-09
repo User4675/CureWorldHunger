@@ -1,0 +1,19 @@
+{
+    "name": "user4675/worldhunger",
+    "description": "Cure's world hunger.",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CureWorldHunger\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "User4675",
+            "email": "business@jakemayor.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
